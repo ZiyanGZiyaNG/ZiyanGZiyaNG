@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm ZiyanGZiyaNG</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziyangziyang" alt="ziyangziyang" /></a> </p>
-
 - Club **TNSSH-CS-Lehre**
 
-- 🌱 I’m currently learning **Ai about Visual Analysis**
+- I’m currently learning **Ai about Visual Analysis**
 
 - Ideal school **NYUC-CS**
 
-- 📫 How to reach me **chen971023@gmai.com**
+- How to reach me **chen971023@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ziyang._.ziyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziyang._.ziyang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ziyangziyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziyangziyang" height="30" width="40" /></a>
 <a href="https://discord.gg/ziyangziyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ziyangziyang" height="30" width="40" /></a>
 </p>
 
